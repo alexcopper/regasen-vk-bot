@@ -1,0 +1,20 @@
+{
+    "name": "anti-rename-talk-vk",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RegasenDev/anti-rename-talk-vk"
+    },
+    "keywords": [],
+    "author": "RegasenDev",
+    "license": "MIT",
+    "dependencies": {
+        "vk-io": "^4.0.0-alpha.8",
+        "vk-io-plus": "^3.0.3"
+    }
+}
