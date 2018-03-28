@@ -1,5 +1,5 @@
 {
-    "name": "anti-rename-talk-vk",
+    "name": "regasen-vk-bot",
     "description": "",
     "version": "1.0.0",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/RegasenDev/anti-rename-talk-vk"
+        "url": "https://github.com/RegasenDevregasen-vk-bot"
     },
     "keywords": [],
     "author": "RegasenDev",
